@@ -3,7 +3,6 @@
 
 import React from 'react'
 import Props3 from "@/components/Props3"
-import { GoDotFill } from "react-icons/go";
 import Image from  'next/image'
 
 

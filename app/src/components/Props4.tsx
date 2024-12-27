@@ -28,4 +28,4 @@ type Props4 = {
        
           )
         }
-        export default Shoplist;
+        export default Shoplist

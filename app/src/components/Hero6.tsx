@@ -1,6 +1,6 @@
 import React from 'react'
 import Image from 'next/image'
-import { GoDotFill } from "react-icons/go";
+import { GoDotFill } from "react-icons/go"
 const Hero6 = () => {
   return (
     <div className='flex container bg-[#F1F0FF] mt-28 w-[1920px h-[579px]'>

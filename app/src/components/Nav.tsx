@@ -1,13 +1,13 @@
 import React from 'react'
-import { MdOutlineMailOutline } from "react-icons/md";
-import { FiPhoneCall } from "react-icons/fi";
-import { FaAngleDown } from "react-icons/fa";
-import { LuUser } from "react-icons/lu";
-import { CiHeart } from "react-icons/ci";
-import { IoCartOutline } from "react-icons/io5";
+import { MdOutlineMailOutline } from "react-icons/md"
+import { FiPhoneCall } from "react-icons/fi"
+import { FaAngleDown } from "react-icons/fa"
+import { LuUser } from "react-icons/lu"
+import { CiHeart } from "react-icons/ci"
+import { IoCartOutline } from "react-icons/io5"
 import Link from "next/link"
-import { IoSearchSharp } from "react-icons/io5";
-import Image from 'next/image';
+import { IoSearchSharp } from "react-icons/io5"
+
 const Nav = () => {
   return (
    <div>

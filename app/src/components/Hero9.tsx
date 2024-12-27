@@ -1,6 +1,6 @@
 import React from 'react'
-import { FaCheck } from "react-icons/fa";
-import Image from 'next/image';
+import { FaCheck } from "react-icons/fa"
+import Image from 'next/image'
 
 const Hero9 = () => {
   return (
@@ -54,22 +54,7 @@ const Hero9 = () => {
 </div>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    </div>
+</div>
   )
 }
 

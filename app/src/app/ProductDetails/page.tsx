@@ -2,13 +2,13 @@
 //this page is open when click on 'browse to shop'
 
 import React from 'react'
-import { FaArrowRight } from "react-icons/fa";
+import { FaArrowRight } from "react-icons/fa"
 import Image from 'next/image'
-import { CiHeart } from "react-icons/ci";
-import { FaFacebook } from "react-icons/fa";
-import { PiInstagramLogoFill } from "react-icons/pi";
-import { FaSquareTwitter } from "react-icons/fa6";
-import Props5 from '@/components/Props5';
+import { CiHeart } from "react-icons/ci"
+import { FaFacebook } from "react-icons/fa"
+import { PiInstagramLogoFill } from "react-icons/pi"
+import { FaSquareTwitter } from "react-icons/fa6"
+import Props5 from '@/components/Props5'
 
 const page = () => {
   return (

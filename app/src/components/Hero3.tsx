@@ -1,8 +1,7 @@
 import React from 'react'
 import Image from 'next/image'
-import { IoCartOutline } from "react-icons/io5";
-import { CiHeart } from "react-icons/ci";
-import { CiSearch } from "react-icons/ci";
+
+
 
 const Hero3 = () => {
   return (

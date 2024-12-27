@@ -1,6 +1,6 @@
 import Image from "next/image"
-import Link from "next/link";
-import { GoDotFill } from "react-icons/go";
+
+
 type Props3 = {
     Image1: string,
     heading: string,

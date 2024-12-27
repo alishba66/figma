@@ -1,7 +1,7 @@
 // this page is render when we click the footer on 'pages'
  
 
-import Image from "next/image";
+import Image from "next/image"
       
 import Props4 from "@/components/Props4"
 
@@ -58,4 +58,4 @@ const page = () => {
   )
 }
 
-export default page;
+export default page

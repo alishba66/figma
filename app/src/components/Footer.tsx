@@ -1,8 +1,8 @@
 import React from 'react'
-import { FaFacebook } from "react-icons/fa";
-import { FaInstagramSquare } from "react-icons/fa";
-import { FaSquareTwitter } from "react-icons/fa6";
-import Link from 'next/link';
+import { FaFacebook } from "react-icons/fa"
+import { FaInstagramSquare } from "react-icons/fa"
+import { FaSquareTwitter } from "react-icons/fa6"
+import Link from 'next/link'
 const Footer = () => {
   return (
     <div className='bg-[#EEEFFB]'>
@@ -12,7 +12,7 @@ const Footer = () => {
           <div className='flex'>
           <input type='search' placeholder='Enter your Email'></input>
           <button className='w-72 h-5 rounded bg-pink-700 text-white text-base'>Sign Up</button></div>
-          <p className="text-gray-400 font-medium text-base pt-5">Contact Info <br></br>17 Princess Road, London, Greater London NW1 8JR, UK</p>
+          <p className="text-gray-400 font-medium text-base pt-5">Contact Info <br></br>17 Princess Road London Greater London NW1 8JR UK</p>
         </div>
         <div className="grid lg:grid-rows-[50px_50px_50px_50px_50px] lg:grid-cols-[200px_200px_200px] pt-28 w-full md:w-1/2 lg:w-2/3">
           <div className="font-semibold text-xl">Catagories</div>
@@ -43,4 +43,4 @@ const Footer = () => {
   )
 }
 
-export default Footer;
+export default Footer

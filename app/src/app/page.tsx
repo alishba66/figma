@@ -1,13 +1,12 @@
-import Heropage1 from '@/components/Heropage1';
-import Hero2 from '@/components/Hero2';
-import Hero3 from '@/components/Hero3';
-
-import Hero5 from '@/components/Hero5';
-import Hero6 from '@/components/Hero6';
-import Hero8 from '@/components/Hero8';
-import Hero9 from '@/components/Hero9';
-import Hero10 from '@/components/Hero10';
-import Footer from '@/components/Footer';
+import Heropage1 from '@/components/Heropage1'
+import Hero2 from '@/components/Hero2'
+import Hero3 from '@/components/Hero3'
+import Hero5 from '@/components/Hero5'
+import Hero6 from '@/components/Hero6'
+import Hero8 from '@/components/Hero8'
+import Hero9 from '@/components/Hero9'
+import Hero10 from '@/components/Hero10'
+import Footer from '@/components/Footer'
 export default function Home() {
   return (
     <div>
