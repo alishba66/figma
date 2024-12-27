@@ -1,4 +1,4 @@
-import React, { Component } from 'react'
+
 import  Hero4 from '../components/Hero4'
 const Hero5 = () => {
   return (
